@@ -5,7 +5,7 @@
   * son règne dure 72 ans
   * ne nomme pas de Premier ministre
   * exige l'étiquette à Versailles
-*  ## John Law
+* ## John Law
   * `1671 - 1729`
   * crée le premier billet de banque
   * il crée la Banque Générale de France en `1717`
@@ -13,6 +13,7 @@
     * lorsque les actionnaires(股东) demandent subitement à récupérer leur or, il a déjà disparu
 * ## Louis XV
   * `1710 - 1774`
+  * prend le pouvoir - `1723`
 * ## Madame de Pompadour
   * Jeanne-Antoinette Poisson
   * `1721 - 1764`
@@ -35,6 +36,108 @@
   * se marie avec `le Dauphin` en `1770`
     * petit-fils de Louis XV
   * `guillotinée 在断头台上处决` le 16 octobre
+* ## Louis XVIII
+  * `1755 - 1824`
+* ## Charles X
+  * `1757 - 1836`
+* ## Mme de Staël
+  * `1766 - 1817`
+  * `Germaine Necker`
+  * ses idées sont plutôt révolutionnaires
+  * `De l'Allemagne`
+    * le portrait de l'allemagne
+    * livre interdit par `Napoléon`
+    * publié `3` ans plus tard à Londres
+    * introduction du romantisme allemand aux Français
+      1. échapper des règles du classicisme
+      2. aller vers un ailleurs 别的地方
+      3. libre cours à l'émotion
+      4. critique implicite de la politique napoléonienne
+* ## François-René de Chateaubriand
+  * `1768 - 1848`
+  * inspiré par ses voyages en Amérique du Nord
+  * `René`
+    * `1802`
+    * homme hanté par le suicide
+    * nature imposante -> peinture vivante
+  * `Mémoires d'outre-tombe`
+    * `1850`
+    * autobiographie
+* ## Louis-Philippe 1<sup>er</sup>
+  * `1773 - 1850`
+* ## Caspar David Friedrich
+  * `1774 - 1840`
+  * un peintre
+  * `le voyageur contemplant une mer de nuages`
+* ## François Guizot
+  * `1787 - 1874`
+  * ministre et premier ministre sous `Louis-Philippe`
+* ## Louis-Napoléon Bonaparte
+  * `1808 - 1873`
+  * le neveu de Napoléon 1<sup>er</sup>
+
+# Les Evènements Importants
+* le préromantisme
+  * `1760 - 1815`
+  * une rupture avec l'esprit critique du 18<sup>e</sup> siècle
+  * un retour à la nature et à la sensibilité, aux émotions, un <<je>> qui parle
+* la guerre d'Indépendance américaine
+  * `1775 - 1783`
+* la déclaration d'Indépendance
+  * `1776`
+* la constitution d'Amérique
+  * `1787`
+* la Révolution française
+  * `1789`
+* le romantisme
+  * `1815 - 1850`
+  * mouvement contre
+    1. les `régles`
+    2. le style du `classicisme`
+  * architecture
+    * renaissance des forme du Moyen Age - `le Gothique médiéval`
+      * e.g. `Notre-Dame de Paris` rénovations
+    * des formes du Baroque
+      * e.g. `l'Opéra de Paris`
+      * e.g. `l'opéra Garnier` - 19<sup>e</sup> siècle
+    * l'incorporation du fer
+      * e.g. `Galerie Victor-Emmanuel II`
+        1. Milan
+        2. le mariage de la pierre, du fer et du verre
+  * musique
+    * `la symphonie et le concerto`
+    * l'amplification de l'émotion
+  * compositeurs
+    1. Hector Berlioz `1803 - 1869`
+      * Symphonie Fantastique part 2
+    2. Frédéric Chopin
+      * `1810 - 1849`
+      * Chopin Nocturne Op.9 No.2
+      * "Fantasie" Impromptu, Op.86
+  * peinture
+    * des scènes `violentes` et `tragique`
+    * les couleurs intenses
+    * `Le radeau de la Méduse`
+      1. `1819`
+      2. `Géricault 1791─1824`
+      3. musée de Louvre, Paris
+      >美杜莎之筏是法国浪漫主义画家西奥多·杰利柯在1818年─1819年间画的油画。这幅画是在他27岁时画的，之后成为法国浪漫主义的标志。这幅画描绘了法国海军的巡防舰美杜莎号沉没之后生还者的求生场面。这场海难发生于1816年7月5日毛里塔尼亚附近的海域，海难当时至少有147人生还，起先是在一只自制的木筏上面漂流，但是13日后被救起时仅有15人幸存，期间他们缺少食物和饮水，甚至有人吃尸体来维持生命。导致这场海难的原因很大程度上是由于美杜莎号的船长失职无能，而这位船长是法国复辟王朝任命的，因此这一事件后来变成国际丑闻。不过实际上，任命贵族做船长是法国海军内部的惯例，当时的路易十八无权任命船长，也并无直接参与入这一事件。
+
+    * `Eugène Delacroix`
+      * peintre romantique
+      * `1798 - 1863`
+      >他1830年的著名画作《自由引导人民》(1830)影响了浪漫主义作家维克多·雨果，30年后写成著名的文学作品《悲惨世界》(1862)。该文学作品是对德拉克罗瓦画作的呼应。
+      >他访问过阿尔及利亚和非洲，创作了大量异国风情的作品，甚至潜入伊斯兰教徒的后室画出《阿尔及利亚女人》。
+
+  * littérature
+    * Alfred de Musset
+      * `1810 - 1857`
+      * `Derniers vers`
+    * Victor Hugo
+      * `1802 - 1885`
+      * il va écrire `les Misérables` à sa maison à Guernessey
+      * Le Panthéon à Paris
+      * `Demain, dès l'aube`
 
 
 # La fin de Louis XIV
@@ -106,15 +209,34 @@
 
 # Le siècle des Lumières
   > le désir de répandre la lumière sur l'esprit de l'homme
-  * ## l'esprit
 
+  * ## l'esprit
+    1. inégalités sociales
+    2. intolérances religieuses
+    3. superstitions et traditions
   * ## les philosophes
     * Charles de Montesquieu
       * `1689-1755`
+      * les ouvrages:
+        1. Lettres persanes - `1721`
+        2. de l'esprit des lois - `1748`
+      * critique sévère de la monarchie absolue
+      * séparation des pouvoirs
     * Voltaire
+      * `François-Marie Arouet`
       * `1694-1778`
+      * les ouvrages:
+        1. La Henriade - `1728`
+        2. lettres philosophiques sur les Anglais - `1733`
+        3. Le siècle de Louis XIV - `1751`
+        4. Traité sur la tolérance - `1763`
     * Jean-Jacques Rousseau
       * `1712-1778`
+      * le premier à poser le problème de la civilisation
+      * les ouvrages:
+        1. Émile ou De L'éducation - `1762`
+        2. Le contrat social - `1762`
+        3. Confessions - `1765-1770`
     * Denis Diderot
       * `1713-1784`
   * ## architecture
@@ -158,26 +280,11 @@
       4. le genre épistolaire
       5. les dictionnaires
 
-# La Révolution
-
-* ### La prise de la Bastille
-  * `le 14 juillet 1789`
-
-# Fin de la Revolution-Empire
-
-# Restauration et Monarchie de Juillet
-* ### François Guizot
- * `1787 - 1874`
- * ministre et premier ministre sous `Louis-Philippe`
-
-
 # IIe République et Second Empire
 * ### La Deuxième République
  * `24 février 1848 - 2 décembre 1851`
-* ### Louis-Napoléon Bonaparte
- * `1808 - 1873`
- * le neveu de Napoléon 1<sup>er</sup>
- *
+ * `1848` Louis-Napoléon Bonaparte est élu Président
+
 * ### Le coup d'Etat
  > le système créé par le Premier consul
 
@@ -226,80 +333,3 @@
     * la Commune est écrasée et ses membres exécutés
     * finit `le mai 28 1871`
   * `Napoléon III` meurt en `1873` en `Angleterre`
-
-# Le Préromantisme et le Romantisme
-* ### le préromantisme 浪漫主义前期
-  * `1760 - 1815`
-  * une rupture avec l'esprit critique du 18<sup>e</sup> siècle
-  * un retour à la nature et à la sensibilité, aux émotions, un <<je>> qui parle
-* ### François-René de Chateaubriand
-  * `1768 - 1848`
-  * inspiré par ses voyages en Amérique du Nord
-  * `René`
-    * `1802`
-    * homme hanté par le suicide
-    * nature imposante -> peinture vivante
-  * `Mémoires d'outre-tombe`
-    * `1850`
-    * autobiographie
-* ### Mme de Staël
-  * `1766 - 1817`
-  * `Germaine Necker`
-  * ses idées sont plutôt révolutionnaires
-  * `De l'Allemagne`
-    * le portrait de l'allemagne
-    * livre interdit par `Napoléon`
-    * publié `3` ans plus tard à Londres
-    * introduction du romantisme allemand aux Français
-      1. échapper des règles du classicisme
-      2. aller vers un ailleurs 别的地方
-      3. libre cours à l'émotion
-      4. critique implicite de la politique napoléonienne
-* ### le romantisme
-  * `1815 - 1850`
-  * mouvement contre
-    1. les `régles`
-    2. le style du `classicisme`
-  * architecture
-    * renaissance des forme du Moyen Age - `le Gothique médiéval`
-      * e.g. `Notre-Dame de Paris` rénovations
-    * des formes du Baroque
-      * e.g. `l'Opéra de Paris`
-      * e.g. `l'opéra Garnier` - 19<sup>e</sup> siècle
-    * l'incorporation du fer
-      * e.g. `Galerie Victor-Emmanuel II`
-        1. Milan
-        2. le mariage de la pierre, du fer et du verre
-  * musique
-    * `la symphonie et le concerto`
-    * l'amplification de l'émotion
-  * compositeurs
-    1. Hector Berlioz `1803 - 1869`
-      * Symphonie Fantastique part 2
-    2. Frédéric Chopin
-      * `1810 - 1849`
-      * Chopin Nocturne Op.9 No.2
-      * "Fantasie" Impromptu, Op.86
-  * peinture
-    * des scènes `violentes` et `tragique`
-    * les couleurs intenses
-    * `Le radeau de la Méduse`
-      1. `1819`
-      2. `Géricault 1791─1824`
-      3. musée de Louvre, Paris
-      >美杜莎之筏是法国浪漫主义画家西奥多·杰利柯在1818年─1819年间画的油画。这幅画是在他27岁时画的，之后成为法国浪漫主义的标志。这幅画描绘了法国海军的巡防舰美杜莎号沉没之后生还者的求生场面。这场海难发生于1816年7月5日毛里塔尼亚附近的海域，海难当时至少有147人生还，起先是在一只自制的木筏上面漂流，但是13日后被救起时仅有15人幸存，期间他们缺少食物和饮水，甚至有人吃尸体来维持生命。导致这场海难的原因很大程度上是由于美杜莎号的船长失职无能，而这位船长是法国复辟王朝任命的，因此这一事件后来变成国际丑闻。不过实际上，任命贵族做船长是法国海军内部的惯例，当时的路易十八无权任命船长，也并无直接参与入这一事件。
-
-    * `Eugène Delacroix`
-      * peintre romantique
-      * `1798 - 1863`
-      >他1830年的著名画作《自由引导人民》(1830)影响了浪漫主义作家维克多·雨果，30年后写成著名的文学作品《悲惨世界》(1862)。该文学作品是对德拉克罗瓦画作的呼应。
-      >他访问过阿尔及利亚和非洲，创作了大量异国风情的作品，甚至潜入伊斯兰教徒的后室画出《阿尔及利亚女人》。
-
-  * littérature
-    * Alfred de Musset
-      * `1810 - 1857`
-    * Victor Hugo
-      * `1802 - 1885`
-      * il va écrire `les Misérables` à sa maison à Guernessey
-      * Le Panthéon à Paris
-      * `Demain, dès l'aube`
